@@ -1,0 +1,2 @@
+Compiling  apps/dexdrip/dexdrip..rel 
+You may now close this window.
